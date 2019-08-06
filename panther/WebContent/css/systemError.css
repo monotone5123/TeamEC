@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+/* main */
+
+.main{
+	width: 90%;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+.main h1{
+	text-align: center;
+	font-size: 40px;
+	border-top: solid;
+	border-bottom: solid;
+	padding-top: 5px;
+	margin-top: 50px;
+	font-weight: bold;
+	color: #FFB638;
+}
+
+.main p{
+	border: 1px solid navy;
+	color: navy;
+	background-color: #99FFFF;
+	margin: 10px 0px;
+	padding:15px 10px 15px 50px;
+	background-repeat: no-repeat;
+	background-position: 10px center;
+}
